@@ -16,7 +16,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
     "@vue/cli-plugin-eslint": "^4.0.1",
-    "@vue/cli-plugin-typescript": "^4.0.0",
+    "@vue/cli-plugin-typescript": "^5.0.6",
     "@vue/cli-service": "^4.0.0",
     "@vue/eslint-config-airbnb": "^5.3.0",
     "@vue/eslint-config-typescript": "^7.0.0",
